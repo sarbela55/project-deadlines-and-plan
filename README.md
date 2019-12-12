@@ -10,6 +10,6 @@ Christmas box will have an opening for the ultrasonic sensor, most likely on the
 
 ## Deadlines:
 ### 12/6/19: Have all plans and deadlines sorted out
-### 12/9/19: Have all measurments and plans finished by this date
-### 12/13/19: Rough draft completed in solidoworks, most coding revised from hello ping to suit our project.
-### 1/22/19: Assemble rough draft
+### 12/16/19: Have all measurments and plans finished by this date
+### 1/20/20: Rough draft completed in solidoworks, most coding revised from hello ping to suit our project.
+### 1/22/20: Assemble rough draft
